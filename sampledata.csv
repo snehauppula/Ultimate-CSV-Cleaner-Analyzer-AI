@@ -1,0 +1,19 @@
+Name,Gender,Age,City,Department,Salary,Email
+John,Male,25,New York,IT,50000,john.doe@gmail.com
+Jane,Female,30,Los Angeles,HR,60000,jane.smith@gmail.com
+Bob,Male,35,Chicago,IT,70000,bob.jones@gmail.com
+Alice,Female,,Boston,Finance,55000,alice.brown@gmail.com
+Charlie,Male,32,,IT,65000,charlie.wilson@gamil.com
+Diana,Female,27,Seattle,HR,58000,diana.taylor@gmail.com
+Eve,Female,29,San Francisco,Finance,62000,eve.white@gmail.com
+Frank,Male,31,Denver,IT,68000,frank.miller@gmail.com
+John,Male,25,New York,IT,50000,john.doe2@gmail.com
+Alice,Male,100,Boston,Finance,150000,alice.brown@gmail.com
+Bob,Female,35,Chicago,IT,70000,bob.jones@gmail.com
+Charlie,,32,Los Angeles,IT,65000,charlie.wilson@gmail.com
+Diana,Male,27,Seattle,HR,58000,diana.taylor@gmail.com
+Eve,,29,San Francisco,Finance,62000,eve.white@gmail.com
+Frank,Female,31,Denver, IT ,68000,frank.miller@gmail.com
+John,Male,25,New York,IT,50000,john.doe3@gmail.com
+Jane,Female,30,los angeles,HR,60000,jane.smith@gmail.com
+Alice,Female,28,Boston,Finance,55000,alice.brown@gmail.com
